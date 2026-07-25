@@ -1,1 +1,1 @@
-# Trash-Generator
+# Random File Generator
